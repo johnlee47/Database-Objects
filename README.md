@@ -1,45 +1,9 @@
+   # DBA ASSIGNMENT #
+                          NAME - YOHANNES FASSIL
+                          ID - ATR/4122/08
+                          SECTION - 02
 
-
-                                                        DBA Assignment
-
-
-
-
-
-
-
-                                             Addis Ababa Institute of Technology
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                                                                              Done BY - Yohannes Fassil
-                                                                                              ID - ATR/4122/08
-                                                                                              Section - 02
-
-
-
-
-                    Submitted to - Teacher Natnael Argaw
-
-
-
-
-
-
-
-
+                 
 
 
 
